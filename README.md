@@ -2,7 +2,7 @@
 
 Integration of Google Maps in Flutter (codelab session).
 
-I did modified a bit the code in order to use custom map markers.
+I modified a bit the code in order to use custom map markers.
 
 Important: This codelab has been done with google_maps_flutter: 2.0.4
 
